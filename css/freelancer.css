@@ -1,0 +1,129 @@
+/*SECCION SUPER STAR*/
+
+.bg_size{
+	padding-bottom: 6%;
+	margin-top: 60px;
+	padding-top: 6%;
+}
+
+ul.navbar-right li a{
+	font-size: 10px;
+}
+
+section.bg-success{
+	color: white;
+}
+
+.big-star{
+	padding: 0px 15px;
+	font-size: 2em;
+    font-weight: 700;
+}
+
+/*SECCION PORTFOLIO*/
+
+.mg-top{
+	margin-top: 25px;
+}
+
+/*SECCION ABOUT*/
+.text_about{
+  margin-bottom: 21px;
+  font-size: 19px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+/*Botón download*/
+.btn-download {
+  color: #1a242f!important;
+  background-color: transparent!important;
+  border-color: #fff!important;
+}
+
+.btn-download:hover{
+	color: #ffffff!important;
+	background-color: #1a242f!important;
+	border-color: #161f29!important;
+}
+
+
+/*Formulario*/
+
+.btn-send{
+	padding: 20px 30px!important;
+	background-color: #18bc9c;
+	color: #fff;
+}
+
+.btn-send:hover {
+  background-color: #128f76;
+}
+
+/*FOOTER*/
+
+.footer{
+	font-size: 20px;
+}
+
+/*Footer seccion*/
+
+footer{
+	background-color: #1a242f;
+	color: #fff;
+	font-size: 17px;
+	padding: 20px 0px;
+}
+
+/*footer clase*/
+
+.bg_size_footer{
+	padding-bottom: 2%;
+	margin-top: 60px;
+	padding-top: 2%;
+}
+
+
+/*iconos circulo*/
+
+.rounded{
+	padding: 7px 10px;
+	border-width: 2px;
+	border: 1px solid white;
+	border-radius: 100%;
+	display: inline-block;
+	margin: 25px 5px 0px;
+
+}
+
+.rounded a{
+	color: #128f76;
+}
+
+a div{
+  color: #fff;
+  ;
+}
+a div:hover {
+  color: #18bc9c;
+  background-color: #fff;
+  text-decoration: underline;
+}
+
+
+/*seccion about*/
+.pd-top{
+	padding-top: 100px;
+}
+
+.text-blog{
+	color: #18bc9c;	
+}
+
+
+
+
+
+
+
+
